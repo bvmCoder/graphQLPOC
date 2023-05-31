@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Author Name",
+  "classifications": [
+    "Clean Architecture",
+    "Clean",
+    "GraphQL",
+    "API",
+    "Dotnet",
+    "Docker"
+  ],
+  "identity": "DocumentAPI.GraphApi.Template",
+  "name": "Clean GraphQL API Template",
+  "shortName": "documentapi.graphapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "DocumentAPI.GraphApi",
+  "preferNameDirectory": true,
+  "symbols": {
+    "author": {
+      "type": "parameter",
+      "displayName": "The name of the author of the solution.",
+      "defaultValue": "Author Name",
+      "replaces": "Author Name"
+    }
+  }
+}
